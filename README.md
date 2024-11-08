@@ -18,8 +18,8 @@ python/ <br>
 ## 🚀 How to Run
 
 ### 1. Build the Docker Image
-docker build -t python .<br>
-docker run -p 5000:5000 python<br>
+docker build -t hello_python .<br>
+docker run -p 5000:5000 hello_python<br>
 Open your browser and navigate to: http://localhost:5000
 
 ## Creator
