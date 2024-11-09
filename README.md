@@ -1,7 +1,7 @@
 # Hello World - Python (Flask)
 
 ## 📄 Project Description
-This is a simple "Hello World" web application built using **Flask**, a Python web framework. The application listens on port `5000` and returns a "Hello World from Flask!" message when accessed.
+This is a simple "Hello World" web application built using **Flask**. The application listens on port `5000` and returns a "Hello World from Flask!" message when accessed.
 
 ## 🗂 Project Structure
 python/ <br>
